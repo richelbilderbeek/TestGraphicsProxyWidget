@@ -11,7 +11,7 @@
    </rect>
   </property>
   <property name="windowTitle">
-   <string>ToolTestGraphicsProxyWidgetMainDialog</string>
+   <string>TestGraphicsProxyWidget</string>
   </property>
   <layout class="QGridLayout" name="layout">
    <property name="leftMargin">
